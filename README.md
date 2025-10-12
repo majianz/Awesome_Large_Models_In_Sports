@@ -1,0 +1,2 @@
+# Awesome_Large_Models_In_Sports_Anonymized
+Anonymized Awesome_Large_Models_In_Sports respository for ACL rolling review
