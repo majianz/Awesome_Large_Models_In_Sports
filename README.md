@@ -17,9 +17,12 @@ This repository is the reading list on ***A Survey of Large Models in Sports***.
     <a href="https://arxiv.org/pdf/2506.23918"><strong>A Survey of Large Models in Sports</strong></a>
   </p>
   
-  [![Awesome](https://awesome.re/badge.svg)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1) 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  ![](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green) 
+    [![Awesome](https://awesome.re/badge.svg)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+    ![Last Commit](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green)
+    [![Paper](https://img.shields.io/badge/Awesome_Large_Models_In_Sports-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2506.23918)
+    [![GitHub](https://img.shields.io/badge/Awesome_Large_Models_In_Sports-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1)
+
 
 </div>
 
