@@ -17,9 +17,9 @@ This repository is the reading list on ***A Survey of Large Models in Sports***.
     <a href="https://arxiv.org/pdf/2506.23918"><strong>A Survey of Large Models in Sports</strong></a>
   </p>
   
-  [![Awesome](https://awesome.re/badge.svg)](https://github.com/zhaochen0110/Awesome_Think_With_Images) 
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1) 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  ![](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images?color=green) 
+  ![](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green) 
 
 </div>
 
