@@ -56,7 +56,9 @@ We further structure the repository following the **taxonomy tree** introduced i
 
 This collection serves as an open, evolving resource for researchers, developers, and sports enthusiasts passionate about exploring how frontier AI is transforming sports — and discovering what Large Models can bring to the next generation of **sports intelligence**.
 
-## Table of Contents
+---
+
+## 📜 Table of Contents
 
 - [Applications for Athletes and Trainers](#applications-for-athletes-and-trainers)
   - [Training Perscription and Plans](#training-perscription-and-plans)
@@ -403,6 +405,19 @@ This collection serves as an open, evolving resource for researchers, developers
 33.  **ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models**, arXiv:2503.19355 [[paper](https://arxiv.org/abs/2503.19355)]
 34.  **LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**, CVPR 2025 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_LiveCC_Learning_Video_LLM_with_Streaming_Speech_Transcription_at_Scale_CVPR_2025_paper.html)]
 
+## Related Surveys
+
+1.  **Artificial intelligence in sport: A narrative review of applications, challenges and future trends**, Journal of Sports Sciences 2025 [[paper](https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2518694)]
+2.  **Language and Multimodal Models in Sports: A Survey of Datasets and Applications**, arXiv:2406.12252 [[paper](https://arxiv.org/abs/2406.12252)]
+3.  **Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations**, arXiv 2023 [[paper](https://arxiv.org/abs/2305.03851)]
+4.  **Impact of ChatGPT Technology on Sports Industry**, Journal of New Media and Economics (JNME) 2024 [[paper](http://www.stemmpress.com/jnme/jnme20244/1452.html)]
+5.  **Sport and the Promise of Artificial Intelligence: Human and Machine Futures**, Sociology of Sport Journal 2024 [[paper](https://journals.humankinetics.com/view/journals/ssj/aop/article-10.1123-ssj.2024-0150/article-10.1123-ssj.2024-0150.xml)]
+6.  **A Review of Artificial Intelligence in Sports: Applications, Ethical Concerns, and Legal Frameworks** [[paper](https://www.researchsquare.com/article/rs-7182432/v1)]
+7.  **A deep introspection into the role of ChatGPT for transforming hospitality, leisure, sport, and tourism education**, Journal of Hospitality, Leisure, Sport & Tourism Education 2024 [[paper](https://www.sciencedirect.com/science/article/pii/S1473837624000273)]
+8.  **Artificial intelligence in health and sport sciences: Promise, progress, and prudence**, Journal of Sport and Health Science 2025 [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12221458/)]
+9.  **Challenges and opportunities of artificial intelligence implementation within sports science and sports medicine teams**, Frontiers in Sports and Active Living 2024 [[paper](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1332427/full)]
+10.  **Using Large Language Models to Enhance Exercise Recommendations and Physical Activity in Clinical and Healthy Populations: Scoping Review**, JMIR Medical Informatics 2025 [[paper](https://medinform.jmir.org/2025/1/e59309/)]
+
 
 ## Years
 
@@ -447,6 +462,7 @@ This collection serves as an open, evolving resource for researchers, developers
 23. **From Human Writing to Artificial Intelligence Generated Text: Examining the Prospects and Potential Threats of ChatGPT in Academic Writing**, Biology of sport 2023 [[paper](https://www.termedia.pl/From-human-writing-to-artificial-intelligence-generated-text-examining-the-prospects-and-potential-threats-of-ChatGPT-in-academic-writing,78,50268,0,1.html)]
 24. **Artificial Intelligence and ChatGPT in Orthopaedics and Sports Medicine**, Journal of Experimental Orthopaedics 2023 [[paper](https://link.springer.com/article/10.1186/s40634-023-00642-8)]
 25. **FootGPT : a Large Language Model Development Experiment on a Minimal Setting** [[paper](https://arxiv.org/abs/2308.08610)]
+26.  **Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations**, arXiv 2023 [[paper](https://arxiv.org/abs/2305.03851)]
 
 
 ### 2024
@@ -529,6 +545,11 @@ This collection serves as an open, evolving resource for researchers, developers
 76.  **Assessing the Accuracy of Large Language Models in Extracting Latest Cricket Information**, Scientific Journal of Sport and Performance 2025 [[paper](https://sjsp.aearedo.es/index.php/sjsp/article/view/accuracy-llms-extracting-cricket-data)]
 77.  **Agentic Generative AI for Media Content Discovery at the National Football League**, 2025 [[paper](https://www.amazon.science/publications/agentic-generative-ai-for-media-content-discovery-at-the-national-football-league)]
 78.  **Diagnostic Applications of AI in Sports: a Comprehensive Review of Injury Risk Prediction Methods**, Diagnostics 2024 [[paper](https://www.mdpi.com/2075-4418/14/22/2516)]
+79.  **Language and Multimodal Models in Sports: A Survey of Datasets and Applications**, arXiv:2406.12252 [[paper](https://arxiv.org/abs/2406.12252)]
+80.  **Impact of ChatGPT Technology on Sports Industry**, Journal of New Media and Economics (JNME) 2024 [[paper](http://www.stemmpress.com/jnme/jnme20244/1452.html)]
+81.  **Sport and the Promise of Artificial Intelligence: Human and Machine Futures**, Sociology of Sport Journal 2024 [[paper](https://journals.humankinetics.com/view/journals/ssj/aop/article-10.1123-ssj.2024-0150/article-10.1123-ssj.2024-0150.xml)]
+82.  **A deep introspection into the role of ChatGPT for transforming hospitality, leisure, sport, and tourism education**, Journal of Hospitality, Leisure, Sport & Tourism Education 2024 [[paper](https://www.sciencedirect.com/science/article/pii/S1473837624000273)]
+83.  **Challenges and opportunities of artificial intelligence implementation within sports science and sports medicine teams**, Frontiers in Sports and Active Living 2024 [[paper](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1332427/full)]
 
 
 ### 2025
@@ -664,4 +685,26 @@ This collection serves as an open, evolving resource for researchers, developers
 129. **Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models Through Question Answering from Text to Video**, Electronics 2025 [[paper](https://www.mdpi.com/2079-9292/14/3/461)]
 130. **A 10-Week Large Language Model (LLM)-Generated Versus Human-Made Volleyball Training Program on the Jumping Performance of Collegiate Volleyball Athletes**, Journal of Physical Education 2025 [[paper](https://www.scielo.br/j/jpe/a/TQjv6PxVVQcx47xd4FQfqzx/?lang=en)]
 131. **The AI Coach: A 5-Week AI-Generated Calisthenics Training Program on Health-Related Physical Fitness Components of Untrained Collegiate Students**, Journal of Human Sport and Exercise 2025 [[paper](https://www.jhse.es/index.php/jhse/article/view/ai-generated-calisthenics-training-program)]
+132.  **Artificial intelligence in sport: A narrative review of applications, challenges and future trends**, Journal of Sports Sciences 2025 [[paper](https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2518694)]
+133.  **A Review of Artificial Intelligence in Sports: Applications, Ethical Concerns, and Legal Frameworks** [[paper](https://www.researchsquare.com/article/rs-7182432/v1)]
+134.  **Artificial intelligence in health and sport sciences: Promise, progress, and prudence**, Journal of Sport and Health Science 2025 [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12221458/)]
+135.  **Using Large Language Models to Enhance Exercise Recommendations and Physical Activity in Clinical and Healthy Populations: Scoping Review**, JMIR Medical Informatics 2025 [[paper](https://medinform.jmir.org/2025/1/e59309/)]
 
+---
+
+## 🤝 Contribution
+
+If you have a paper, project, or dataset that fits into this resource, please feel free to open a pull request. We welcome contributions!
+
+## 📚 Citation
+
+If you find this repository useful for your research or work, please consider citing our paper:
+
+```bibtex
+@article{xu2025largemodels,
+  title   = {A Survey of Large Models in Sports},
+  author  = {Yichen Xu and Jianzhe Ma and Chuhan Wang and Zhonghao Cao and Liangyu Chen and Wenxuan Wang and Qin Jin},
+  journal = {arXiv preprint arXiv:1234.56789},
+  year    = {2025}
+}
+```
