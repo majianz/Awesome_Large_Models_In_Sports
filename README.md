@@ -17,33 +17,13 @@ This repository is the reading list on ***A Survey of Large Models in Sports***.
     <a href="https://arxiv.org/pdf/2506.23918"><strong>A Survey of Large Models in Sports</strong></a>
   </p>
   
-    [![Awesome](https://awesome.re/badge.svg)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1)
-    [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-    ![Last Commit](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green)
-    [![Paper](https://img.shields.io/badge/Awesome_Large_Models_In_Sports-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2506.23918)
-    [![GitHub](https://img.shields.io/badge/Awesome_Large_Models_In_Sports-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1)
-
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1) 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  ![](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green) 
+  [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
 
 </div>
 
-
----
-
-
-<div align="center">
-  <a href="https://arxiv.org/pdf/2506.23918">
-    <img src="https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
-  </a>
-  <a href="https://github.com/zhaochen0110/Awesome_Think_With_Images">
-    <img src="https://img.shields.io/badge/Think_With_Images-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white" alt="Github">
-  </a>
-  <!-- <a href="https://huggingface.co/papers/2506.23918">
-    <img src="https://img.shields.io/badge/HuggingFace-fcd022?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face Collection">
-  </a> -->
-  <!-- <a href="https://x.com/SuZhaochen0110/status/1940251163166986333">
-    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a> -->
-</div>
 
 ---
 
