@@ -2,7 +2,7 @@
   <h1>Large Models in Sports</h1>
   <p>
     This repository accompanies our survey paper: <br>
-    <a href="https://arxiv.org/pdf/2506.23918"><strong>A Survey of Large Models in Sports</strong></a>
+    <a href="https://arxiv.org/pdf/1234.56789"><strong>A Survey of Large Models in Sports</strong></a>
   </p>
 
   
@@ -30,12 +30,12 @@ Sports have witnessed a surge of global enthusiasm, becoming a driving force for
 
 We organize the applications into **six major stakeholder groups**, as shown in the figure below:
 
-<p align="center">
+<div align="center">
   <img src="applications.jpg" alt="Figure 1: Overview of Large Models in Sports" width="80%">
   <p><em>
     The diverse applications of large models across six major stakeholder groups in sports.
   </em></p>
-</p>
+</div>
 
 1. **Athletes & Trainers** – exercise and training plans, injury prevention, rehabilitation, and sports psychology  
 2. **Coaches & Educators** – action recognition, performance prediction, and tactics or strategies  
@@ -47,15 +47,14 @@ We organize the applications into **six major stakeholder groups**, as shown in 
 
 We further structure the repository following the **taxonomy tree** introduced in our paper, offering a clear overview of research topics, tasks, and datasets within each stakeholder group.
 
-<p align="center">
+<div align="center">
   <img src="taxonomy.png" alt="Figure 2: Taxonomy of Large Models in Sports" width="80%">
   <p><em>
     The taxonomy of large models in sports.
   </em></p>
-</p>
+</div>
 
-This collection serves as an open, evolving resource for **researchers, developers, and sports enthusiasts** eager to explore the forefront of AI in sports — and to discover what large models can bring to the next generation of **sports intelligence**.
-
+This collection serves as an open, evolving resource for researchers, developers, and sports enthusiasts passionate about exploring how frontier AI is transforming sports — and discovering what Large Models can bring to the next generation of **sports intelligence**.
 
 ## Table of Contents
 
