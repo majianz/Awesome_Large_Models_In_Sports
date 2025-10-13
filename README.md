@@ -1,9 +1,6 @@
-# Awesome-Large-Models-In-Sports
-The official repository of paper "A Survey of Large Models in Sports"
+<!-- # Awesome-Large-Models-In-Sports
+The official repository of paper "A Survey of Large Models in Sports" -->
 
-<p align="center">
-  <img src="figure1.jpg" alt="Figure 1: Overview of Large Models in Sports" width="80%">
-</p>
 
 <!-- # Large Models in Sports (LMSports)
 
@@ -28,10 +25,37 @@ This repository is the reading list on ***A Survey of Large Models in Sports***.
 ---
 
 ## 🔔 News
--   **[2025-10]** We have released ["Large Models In Sports"](https://arxiv.org/pdf/2506.23918), a **comprehensive survey** dedicated to the emerging application of Large Models (LMs) in sports. 
--   **[2025-10]** We created this repository to maintain a paper list on Awesome-Think-With-Images. Contributions are welcome!
+-   **[2025-10]** We have released ["A Survey of Large Models in Sports"](https://arxiv.org/pdf/2506.23918), a **comprehensive survey** dedicated to the emerging application of Large Models (LMs) in sports. 
+-   **[2025-10]** We created this repository to maintain a paper list on Awesome-Large-Models-In-Sports. Contributions are welcome!
 
 ---
+
+## Introduction
+
+Welcome to **Awesome-Large-Models-In-Sports** 👋  
+Sports have witnessed a surge of global enthusiasm, becoming a driving force for physical health, social connection, and cultural exchange. With the rapid rise of **Large Language Models (LLMs)** and **Multimodal Large Language Models (MLLMs)**, **Large Models (LMs)** is transforming how we understand, analyze, and interact with sports. This repository is the **first comprehensive survey and curated collection** that systematically explores the intersection of **Large Models and sports**.
+
+We organize the applications into **six major stakeholder groups**, as shown in the figure below:
+
+1. **Athletes & Trainers** – exercise and training plans, injury prevention, rehabilitation, and sports psychology  
+2. **Coaches & Educators** – action recognition, performance prediction, and tactics or strategies  
+3. **Referees** – decision support, fairness, and explainable refereeing systems  
+4. **Fans & Media** – commentary, highlights, storytelling, news, sentiment analysis and general sports models
+5. **Researchers** – academic writing and knowledge discovery in sports science  
+6. **The Sports Industry** – management, talent scouting, and tourism applications  
+
+<p align="center">
+  <img src="applications.jpg" alt="Figure 1: Overview of Large Models in Sports" width="80%">
+</p>
+
+We further structure the repository following the **taxonomy tree** introduced in our paper, offering a clear overview of research topics, tasks, and datasets within each stakeholder group.
+
+<p align="center">
+  <img src="taxonomy.jpg" alt="Figure 2: Taxonomy of Large Models in Sports" width="80%">
+</p>
+
+This collection serves as an open, evolving resource for **researchers, developers, and sports enthusiasts** eager to explore the forefront of AI in sports — and to discover what large models can bring to the next generation of **sports intelligence**.
+
 
 ## Table of Contents
 
