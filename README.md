@@ -2,14 +2,14 @@
   <h1>Large Models in Sports</h1>
   <p>
     This repository accompanies our survey paper: <br>
-    <a href="https://arxiv.org/pdf/1234.56789"><strong>A Survey of Large Models in Sports</strong></a>
+    <a href="https://www.researchgate.net/publication/396734233_A_Survey_of_Large_Models_in_Sports"><strong>A Survey of Large Models in Sports</strong></a>
   </p>
 
   
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1) 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ![](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green) 
-  [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
+  <!-- [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789) -->
 
 </div>
 
@@ -17,7 +17,7 @@
 ---
 
 ## 🔔 News
--   **[2025-10]** We have released ["A Survey of Large Models in Sports"](https://arxiv.org/pdf/2506.23918), a **comprehensive survey** dedicated to the emerging application of Large Models (LMs) in sports. 
+-   **[2025-10]** We have released ["A Survey of Large Models in Sports"](https://www.researchgate.net/publication/396734233_A_Survey_of_Large_Models_in_Sports), a **comprehensive survey** dedicated to the emerging application of Large Models (LMs) in sports. 
 -   **[2025-10]** We created this repository to maintain a paper list on Awesome-Large-Models-In-Sports. Contributions are welcome!
 
 ---
