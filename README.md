@@ -704,7 +704,6 @@ If you find this repository useful for your research or work, please consider ci
 @article{xu2025largemodels,
   title   = {A Survey of Large Models in Sports},
   author  = {Yichen Xu and Jianzhe Ma and Chuhan Wang and Zhonghao Cao and Liangyu Chen and Wenxuan Wang and Qin Jin},
-  journal = {arXiv preprint arXiv:1234.56789},
   year    = {2025}
 }
 ```
